@@ -1,0 +1,1 @@
+This is the final project for my Introduction to HTML 5 course - Coursera
